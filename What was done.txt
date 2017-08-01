@@ -1,0 +1,4 @@
+Flow of the System
+- To test the application, there is a Test class called TestRegister
+- I created i hibernateUtil singleton to manage transaction creation
+- I created a generic dao to handle dabasabe persistence
